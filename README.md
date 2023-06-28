@@ -1,1 +1,2 @@
 # HR-ANALYTICS
+This dashboard presents the Human Resource Analytics, showcasing various aspects of employee recruitment and attrition within a span of one year. It provides insights into the number of new hires compared to the number of employees who have left the company. Additionally, it explores the distribution of employee departures across different job roles and analyzes the most common reasons behind their departures. The purpose of this repository's readme is to provide a comprehensive overview of the HR analytics dashboard and its contents.
